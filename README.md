@@ -1,1 +1,1 @@
-My project using selenium IDE from Google Chrome extensions
+My project using selenium with python on Sauce Demo Website
