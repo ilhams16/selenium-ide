@@ -1,1 +1,1 @@
-My project using selenium IDE from Google Chrome extensions
+My project project testing using Selenium
