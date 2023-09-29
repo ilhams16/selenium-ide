@@ -1,1 +1,1 @@
-My project project testing using Selenium
+My project project load testing using JMeter
